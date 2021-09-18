@@ -1,6 +1,8 @@
+# import/load packages
 import scrapy
 from scrapy.linkextractors import LinkExtractor
 from urllib.parse import urljoin
+
 
 
 
